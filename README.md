@@ -10,7 +10,7 @@
 #### ▶MAC APP：[ShadowsocksX-NG](https://github.com/shadowsocksr/ShadowsocksX-NG/releases), [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R/releases) 等
 
 ### IOS用户请注意
-IOS用户在使用之前请先转到 -> 资料编辑 页面，把 SSR协议 更改为 origin，然后重新扫码或导入配置；
+IOS用户在使用之前请先转到 -> [资料编辑](https://sss.pixiaohou.com/user/edit) 页面，把 SSR协议 更改为 origin，然后重新扫码或导入配置；
 ### Shadowsocks用户请注意
 请首先使用ShadowsocksR！
-Shadowsocks用户在使用之前请先转到 -> 资料编辑 页面，把 SSR协议 更改为 origin，然后重新扫码或导入配置；
+Shadowsocks用户在使用之前请先转到 -> [资料编辑](https://sss.pixiaohou.com/user/edit) 页面，把 SSR协议 更改为 origin，然后重新扫码或导入配置；
