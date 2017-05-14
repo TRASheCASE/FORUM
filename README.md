@@ -15,3 +15,7 @@ IOS用户在使用之前请先转到 -> [资料编辑](https://sss.pixiaohou.com
 ### Shadowsocks用户请注意
 请首先选择使用ShadowsocksR！若系统不兼容，则可以选用Shadowsocks，配置如下  
 Shadowsocks用户在使用之前请先转到 -> [资料编辑](https://sss.pixiaohou.com/user/edit) 页面，把 SSR协议 更改为 origin，然后重新扫码或导入配置；
+
+ShadowsocksR配置教程
+-------------------
+[查看ShadowsocksR配置教程请点击这里](http://www.jianshu.com/p/90615af89d7e)
