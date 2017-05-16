@@ -7,7 +7,7 @@
 ---------------------------
 #### ▶[Windows](https://github.com/shadowsocksr/shadowsocksr-csharp/releases "Windows")   
 #### ▶[Andriod](https://github.com/shadowsocksr/shadowsocksr-android/releases "Andriod")
-#### ▶IOS APP：[Wingy](https://itunes.apple.com/cn/app/wingy-http-s-socks5-proxy-utility/id1178584911?mt=8), [Shadowsocket](https://itunes.apple.com/us/app/shadowrocket/id932747118), [Potatso2](https://itunes.apple.com/app/id1162704202?mt=8 ), [Cross](https://itunes.apple.com/cn/app/cross-shadowsocks-proxy-client/id1194595243), [Surge](https://itunes.apple.com/cn/app/surge-web-developer-tool-and-proxy-utility/id1040100637?mt=8) 等
+#### ▶IOS APP：[Shadowsocket](https://itunes.apple.com/us/app/shadowrocket/id932747118), [Potatso2](https://itunes.apple.com/app/id1162704202?mt=8 ), [Cross](https://itunes.apple.com/cn/app/cross-shadowsocks-proxy-client/id1194595243) 等
 #### ▶MAC APP：[ShadowsocksX-NG](https://github.com/shadowsocksr/ShadowsocksX-NG/releases), [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R/releases) 等
 
 ### IOS用户请注意
